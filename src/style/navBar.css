@@ -1,0 +1,22 @@
+.navBar{
+    display: grid;
+    background-color: lightblue;
+    flex-direction: row;
+    justify-content: center;
+    justify-self: center;
+    align-items: center;
+    grid-template-columns: 1fr 5fr 1fr;
+}
+.logo{
+
+}
+.options{
+    
+}
+.login{
+    width: 20%;
+    align-self: center;
+    justify-items: center;
+    justify-content: center;
+    text-align: justify;
+}
